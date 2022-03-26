@@ -1,33 +1,36 @@
-## Olá eu me chamo Mazo! Sou ilustrador, redator e programador!
-<div align="center" >
-  <a href="https://github.com/GabrielSilvaMazo">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaMazo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaMazo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mazo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mazo-Bstp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Mazo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mazo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mazo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mazo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mazo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-  <img align="center" alt="Mazo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-  <img align="center" alt="Mazo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-  
-  ##
- <!--  
-  ![Snake animation](https://github.com/GabrielSilvaMazo/GabrielSilvaMazo/blob/output/github-contribution-grid-snake.svg)
+### Olá! Eu sou o Gabriel Mazo, ilustrador, redator e programador!
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Atualmente estou terminando cursando o curso de Informatica para a Internet na Etec.
+
+##
+
+<div>
  
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielmazo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" href="https://github.com/GabrielSilvaMazo?tab=repositories">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvamazo&layout=compact&langs_count=7&theme=gotham" href="https://github.com/GabrielSilvaMazo?tab=repositories">
+ 
+</div>
   
+##
  
-</div>-->
+<div> 
+  
+ <a href = "https://join.skype.com/invite/nE0yyiDfscVW"><img src="https://img.shields.io/badge/-Skype-%230077B5?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriels.mazo216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-silva-mazo-a004a420a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/gabrielsilvamazo/gabrielsilvamazo/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+##
+
+<div style="display: inline_block">
+  
+  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div>
+
