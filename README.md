@@ -1,6 +1,12 @@
-### Olá! Eu sou o Gabriel Mazo, ilustrador, redator e programador!
+### Olá! Eu sou o Gabriel Mazo seja bem vindo ao meu GitHub 😃👋
 
-Atualmente estou terminando cursando o curso de Informatica para a Internet na Etec.
+Sou freelancer, trabalhando com ilustrações digitais,
+atualmente com foco em livros infantis, também trabalho com desenvolvimento de paginas e softwares, 
+com destaque em PHP, Javascript, Bootstrap, HTML5 e CSS.
+
+##
+
+
 
 ##
 
