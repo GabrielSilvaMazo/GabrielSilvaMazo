@@ -6,14 +6,14 @@
 Sou freelancer, trabalhando com ilustrações digitais,
 atualmente com foco em livros infantis, também trabalho com desenvolvimento de paginas e softwares, 
 com destaque em PHP, Javascript, Bootstrap, HTML5 e CSS.
-
+<!--
 ##
 
 - 🏠 Atualmente trabalho Home Office e na Adorei...
 - 🛫 Tenho estudado Python e Java...
 - 🛸 Posso colaborar com conhecimentos sobre programação e desing de Web Pages...
 - 🎸 Rock em um estado de Nirvana 🥴
-
+-->
 ##
 
 <!-- ================================================================================================= -->
