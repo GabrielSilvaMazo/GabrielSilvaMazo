@@ -71,7 +71,7 @@ com destaque em PHP, Javascript, Bootstrap, HTML5 e CSS.
  
  <div>
   
-<img align="left" alt="Linguagens mais utilizadas" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvamazo&theme=gotham&layout=compact" href="https://github.com/GabrielSilvaMazo?tab=repositories">
+<img align="left" alt="Linguagens mais utilizadas" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaMazo&theme=gotham&layout=compact" href="https://github.com/GabrielSilvaMazo?tab=repositories">
 
  </div>
  
