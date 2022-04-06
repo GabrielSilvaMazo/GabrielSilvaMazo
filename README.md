@@ -26,7 +26,7 @@ com destaque em PHP, Javascript, Bootstrap, HTML5 e CSS.
 
  <div>
 
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmazo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" href="https://github.com/GabrielSilvaMazo?tab=repositories">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvamazo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" href="https://github.com/GabrielSilvaMazo?tab=repositories">
  
  </div>
  
