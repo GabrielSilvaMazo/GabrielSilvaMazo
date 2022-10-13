@@ -5,7 +5,7 @@
 
 Tenho 18 anos, sou Dev.Front-End, Web Designer, aspirante a Ilustrador e Editor de videos.
 Utilizo atualmente as linguagens e frameworks: PHP, Javascript, Bootstrap, HTML5 e CSS.
-<--
+
 ##
 
 - 🏠 Atualmente busco um trabalho Home Office...
