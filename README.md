@@ -3,17 +3,16 @@
 
 ### Olá! Eu sou o Gabriel Mazo seja bem vindo ao meu GitHub 😃👋
 
-Sou freelancer, trabalhando com ilustrações digitais,
-atualmente com foco em livros infantis, também trabalho com desenvolvimento de paginas e softwares, 
-com destaque em PHP, Javascript, Bootstrap, HTML5 e CSS.
-<!--
+Tenho 18 anos, sou Dev.Front-End, Web Designer, aspirante a Ilustrador e Editor de videos.
+Utilizo atualmente as linguagens e frameworks: PHP, Javascript, Bootstrap, HTML5 e CSS.
+<--
 ##
 
-- 🏠 Atualmente trabalho Home Office e na Adorei...
-- 🛫 Tenho estudado Python e Java...
+- 🏠 Atualmente busco um trabalho Home Office...
+- 🛫 Tenho estudado Blender, Python e Unity ...
 - 🛸 Posso colaborar com conhecimentos sobre programação e desing de Web Pages...
-- 🎸 Rock em um estado de Nirvana 🥴
--->
+- 🎸 Curto rock em estado de Nirvana 🥴...
+
 ##
 
 <!-- ================================================================================================= -->
